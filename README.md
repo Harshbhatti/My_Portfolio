@@ -4,7 +4,7 @@
 - [Python Projects] (https://github.com/Harshbhatti/Datascience_Potfolio)
 - [Data Analysis project] (https://github.com/Harshbhatti/Datascience_Potfolio)
 - [ML/AI projects] (https://github.com/Harshbhatti/Datascience_Potfolio)
-  [Dashboards] (https://github.com/Harshbhatti/Datascience_Potfolio)
+- [Dashboards] (https://github.com/Harshbhatti/Datascience_Potfolio)
   
 # checkout My other Profiles:
 -[Linkendin] (www.linkedin.com/in/harsh-bhatti-47948725b)
