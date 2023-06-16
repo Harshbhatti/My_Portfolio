@@ -8,6 +8,7 @@
   
 # Checkout My other Profiles:
 -[Linkendin] (www.linkedin.com/in/harsh-bhatti-47948725b)
+
 -[HackerRank] (https://www.hackerrank.com/harshbhatti7704?hr_r=1)
 
 # Python project [https://github.com/Harshbhatti/Datascience_Potfolio/edit/main/README.md]
