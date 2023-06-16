@@ -13,9 +13,10 @@
 
 # Python project [https://github.com/Harshbhatti/Datascience_Potfolio/edit/main/README.md]
 1.Student Management System
+
 2.Bank Management System
 
 ## In this projects we use opps concept.
--Using functions,loops concept.
+- Using functions,loops concept.
 - Aim to do prectice
 - data got manage
