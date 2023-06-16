@@ -6,10 +6,11 @@
 - [ML/AI projects] (https://github.com/Harshbhatti/Datascience_Potfolio)
 - [Dashboards] (https://github.com/Harshbhatti/Datascience_Potfolio)
   
-# checkout My other Profiles:
+# Checkout My other Profiles:
 -[Linkendin] (www.linkedin.com/in/harsh-bhatti-47948725b)
+-[HackerRank] (https://www.hackerrank.com/harshbhatti7704?hr_r=1)
 
-# python project [https://github.com/Harshbhatti/Datascience_Potfolio/edit/main/README.md]
+# Python project [https://github.com/Harshbhatti/Datascience_Potfolio/edit/main/README.md]
 1.Student Management System
 2.Bank Management System
 
