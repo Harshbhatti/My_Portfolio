@@ -1,6 +1,9 @@
 # Datascience_Potfolio
+
 # [About Me] (https://github.com/Harshbhatti)
+
 ## I put my project under 4 repositories:
+
 - [Python Projects] (https://github.com/Harshbhatti/Datascience_Potfolio)
 - [Data Analysis project] (https://github.com/Harshbhatti/Datascience_Potfolio)
 - [ML/AI projects] (https://github.com/Harshbhatti/Datascience_Potfolio)
@@ -30,11 +33,11 @@
 
 3.Internshala_Webscrapin
 
-Webscraping_with_urllib
+4.Webscraping_with_urllib
 
-Jiomart_Webscraping
+5.Jiomart_Webscraping
 
-Snapdeal_Webscraping
+6.Snapdeal_Webscraping
 
 ## "Data Harvesters" is an innovative web scraping project designed to revolutionize the way businesses and researchers gather valuable information from the vast expanse of the internet. By employing advanced web scraping techniques, this project aims to efficiently extract and organize relevant data from diverse websites and online sources, presenting it in a structured and accessible format.
 
@@ -45,3 +48,5 @@ Snapdeal_Webscraping
 - Insights and Analytics
 - Ethical and Responsible Web Scraping
 - Continuous Support and Updates
+
+
