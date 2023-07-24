@@ -1,4 +1,4 @@
-# Datascience_Potfolio
+# My_Potfolio
 
 # [About Me] (https://github.com/Harshbhatti)
 
