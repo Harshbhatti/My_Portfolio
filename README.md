@@ -1,4 +1,4 @@
-# My_Potfolio
+# My_Portfolio
 
 # [About Me] (https://github.com/Harshbhatti)
 
